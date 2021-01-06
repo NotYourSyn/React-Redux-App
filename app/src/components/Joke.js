@@ -10,8 +10,8 @@ const Joke = ({ title, joke, isFetching, error, fetchJoke }) => {
   return (
     <>
       <h1>{title}</h1>
-      <h2>Dad says: {joke}</h2>
-      <button onClick={fetchJoke}>Get new dad joke</button>
+      <h2>Kanye West Says: {joke}</h2>
+      <button onClick={fetchJoke}>New Quote From Kanye</button>
     </>
   );
 };

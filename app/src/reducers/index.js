@@ -1,5 +1,5 @@
 const initialState = {
-    title: "WEBPT22 Dads Yeehaw!",
+    title: "Kanye West Quotes",
     isFetching: false,
     joke: "",
     error: ""
